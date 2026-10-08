@@ -1,0 +1,14 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {subsection}{Autoria}{3}{section*.1}%
+\contentsline {subsection}{Visão geral do Jogo}{3}{section*.1}%
+\contentsline {subsection}{Conceito e Proposta do Jogo}{4}{section*.1}%
+\contentsline {subsection}{Projeto do Jogo}{5}{section*.1}%
+\contentsline {subsection}{Narrativa}{6}{Item.4}%
+\contentsline {subsection}{Mecânicas do Jogo}{7}{figure.caption.3}%
+\contentsline {subsection}{Interface e Feedback ao Jogador}{15}{Item.25}%
+\contentsline {subsection}{Sistema de Pontuação e Progressão}{18}{figure.caption.15}%
+\contentsline {subsection}{Aspectos Técnicos do Desenvolvimento}{19}{Item.32}%
+\contentsline {subsection}{Licenças e Distribuição do Jogo}{21}{Item.37}%
+\contentsline {subsection}{Considerações Finais do GDD}{22}{Item.37}%
